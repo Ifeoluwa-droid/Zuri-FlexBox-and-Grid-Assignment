@@ -81,6 +81,7 @@ a:hover {
 @media screen and (max-width: 1324px) {
     .container {
         flex-direction: column;
+        width: 95%;
     }
 
     .sedans {
