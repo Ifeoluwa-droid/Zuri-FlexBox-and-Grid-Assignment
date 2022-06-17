@@ -72,7 +72,7 @@ p {
     color: hsl(179, 100%, 13%);
 }
 
-a:hover {
+a:hover, a:active {
     background-color: transparent;
     color: hsl(0, 0%, 95%);
 }
